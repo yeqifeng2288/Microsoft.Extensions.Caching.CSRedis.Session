@@ -6,3 +6,4 @@
 /src/Microsoft.Extensions.Caching.CSRedis.Session/obj
 /src/Microsoft.Extensions.Caching.CSRedis.Session/.vs/Microsoft.Extensions.Caching.CSRedis.Session
 /src/Microsoft.Extensions.Caching.CSRedis.Session/bin/Debug/netcoreapp3.0
+/src/CacheDemo

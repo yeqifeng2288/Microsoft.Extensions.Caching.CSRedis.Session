@@ -9,7 +9,7 @@ namespace Microsoft.Extensions.Caching.CSRedis.Session
     public static class CSRedisSessionCacheExtensions
     {
         /// <summary>
-        /// 
+        /// 添加特定的RedisSession。
         /// </summary>
         /// <returns></returns>
         public static IServiceCollection AddRedisSession(this IServiceCollection services)
