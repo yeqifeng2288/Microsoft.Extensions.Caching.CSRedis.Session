@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Caching.Distributed;
+
 namespace Microsoft.Extensions.Caching.CSRedis.Session
 {
     /// <summary>
